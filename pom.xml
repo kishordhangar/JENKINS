@@ -26,7 +26,7 @@
                     </goals>
                     <configuration>
                         <publisher>
-                            <contextUrl>http://localhost:8081/artifactory</contextUrl>
+                            <contextUrl>http://192.168.1.14:8081/artifactory</contextUrl>
                             <username>admin</username>
                             <password>Dk@123</password>
                             <repoKey>lkishor-maven-snapshot</repoKey>
